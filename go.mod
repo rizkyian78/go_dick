@@ -1,3 +1,3 @@
-module rizkyian78/go_dick
+module github.com/rizkyian78/go_dick
 
 go 1.17
